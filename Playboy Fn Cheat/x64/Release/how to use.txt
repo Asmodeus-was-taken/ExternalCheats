@@ -1,0 +1,2 @@
+drag driver.sys onto mapper.exe
+open enzyme private in lobby
